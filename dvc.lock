@@ -1,0 +1,6 @@
+evaluate:
+  cmd: python3 lab3.py
+  outs:
+  - path: summary.json
+    md5: 1ecf7d991fcb65fb16978e911316ab96
+    size: 159

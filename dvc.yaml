@@ -1,0 +1,6 @@
+stages:
+    evaluate:
+        cmd: python3 lab3.py
+        metrics:
+            - summary.json:
+                cache: false
